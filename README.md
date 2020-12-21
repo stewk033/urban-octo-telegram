@@ -10,24 +10,28 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-![alt text](assets/images/screenshot.png)
-``
+*_GIVEN a webpage meets accessibility standards
+*_WHEN I view the source code
+*_THEN I find semantic HTML elements
+*_WHEN I view the structure of the HTML elements
+*_THEN I find that the elements follow a logical structure independent of styling and positioning
+*_WHEN I view the image elements
+*_THEN I find accessible alt attributes
+*_WHEN I view the heading attributes
+*_THEN they fall in sequential order
+*_WHEN I view the title element
+*_THEN I find a concise, descriptive title
+
+
+
 ## Credits
 
 Provided with a mock-up and original code from which to work.
 
-See Original Code: [*CODE*]
+See Original Code: [CODE]()
+
+Mockup (https://github.com/stewk033/urban-octo-telegram/blob/main/assets/images/01-html-css-git-homework-demo.png)
+
 
 List your collaborators, if any, with links to their GitHub profiles.
 
