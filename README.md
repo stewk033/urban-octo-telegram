@@ -22,24 +22,20 @@ SO THAT our own site is optimized for search engines
 * _WHEN I view the title element_
 * _THEN I find a concise, descriptive title_
 
-
-
 ## Credits
 
 Provided with a mock-up and original code from which to work.
 
-See Original Code: [CODE]()
+See Original Code: [CODE](https://github.com/stewk033/urban-octo-telegram/blob/main/urban-octo-telegram-master/Develop/index.html)
 
-Mockup (https://github.com/stewk033/urban-octo-telegram/blob/main/assets/images/01-html-css-git-homework-demo.png)
+![MOCKUP](https://github.com/stewk033/urban-octo-telegram/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
+Original code provided by Xander Rapstine: [XanderGitHub] (https://github.com/Xandromus)
 
-List your collaborators, if any, with links to their GitHub profiles.
+## My Solution
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+Live URL: (https://stewk033.github.io/urban-octo-telegram/)
 
-If you followed tutorials, include links to those here as well.
-
-
-## License
-
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+Refactored Code:
+* [HTML] (https://github.com/stewk033/urban-octo-telegram/blob/main/index.html)
+* [CSS] (https://github.com/stewk033/urban-octo-telegram/blob/main/assets/css/style.css)
