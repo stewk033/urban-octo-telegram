@@ -10,17 +10,17 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
-*_GIVEN a webpage meets accessibility standards
-*_WHEN I view the source code
-*_THEN I find semantic HTML elements
-*_WHEN I view the structure of the HTML elements
-*_THEN I find that the elements follow a logical structure independent of styling and positioning
-*_WHEN I view the image elements
-*_THEN I find accessible alt attributes
-*_WHEN I view the heading attributes
-*_THEN they fall in sequential order
-*_WHEN I view the title element
-*_THEN I find a concise, descriptive title
+*_GIVEN a webpage meets accessibility standards_
+*_WHEN I view the source cod_
+*_THEN I find semantic HTML elements_
+*_WHEN I view the structure of the HTML elements_
+*_THEN I find that the elements follow a logical structure independent of styling and positioning_
+*_WHEN I view the image elements_
+*_THEN I find accessible alt attributes_
+*_WHEN I view the heading attributes_
+*_THEN they fall in sequential order_
+*_WHEN I view the title element_
+*_THEN I find a concise, descriptive title_
 
 
 
