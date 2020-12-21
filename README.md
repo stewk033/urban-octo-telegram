@@ -30,7 +30,7 @@ See Original Code: [CODE](https://github.com/stewk033/urban-octo-telegram/blob/m
 
 ![MOCKUP](https://github.com/stewk033/urban-octo-telegram/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
-Original code provided by Xander Rapstine: [XanderGitHub] (https://github.com/Xandromus)
+Original code provided by Xander Rapstine: (https://github.com/Xandromus)
 
 ## My Solution
 
